@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br>
 <p align="center">
-  <h3 align="center">Mock of the 2048 Game in Java</h3>
+  <h3 align="center">A simple implementation of the 2048 Game in Java</h3>
 </p>
 
 
